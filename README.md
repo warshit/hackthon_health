@@ -20,8 +20,7 @@
 ## Setup and Demo
 
 1. **Download the Project**:  
-   Save the `hello.html` file to your local machine (e.g., `c:\Users\varsh\OneDrive\Desktop\hack_clg\nothing\hello.html`).
-
+   Save the `hello.html` file to your local machine.
 2. **Run in Browser**:  
    Open the file in any modern browser (Chrome, Firefox, Edge, etc.).  
    No additional server setup is required since this app runs purely on the client side.
